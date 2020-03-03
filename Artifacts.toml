@@ -1,0 +1,8 @@
+[[LibOSXUnwind]]
+arch = "x86_64"
+git-tree-sha1 = "f40a17e8248332cc23d063c7cd1da41624f25106"
+os = "macos"
+
+    [[LibOSXUnwind.download]]
+    sha256 = "a952a325b2523358150b53016e23c36e5a27b477c9830e87179f2e8c8ae6bf9c"
+    url = "https://github.com/JuliaBinaryWrappers/LibOSXUnwind_jll.jl/releases/download/LibOSXUnwind-v0.0.5+0/LibOSXUnwind.v0.0.5.x86_64-apple-darwin14.tar.gz"
