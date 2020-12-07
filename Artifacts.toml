@@ -1,8 +1,16 @@
 [[LibOSXUnwind]]
-arch = "x86_64"
-git-tree-sha1 = "fe58dbdcbbd0bec6b3f44c2b19c11b1c3084760e"
+arch = "aarch64"
+git-tree-sha1 = "426d985f0d15921d93e28a711823928616c2c2c2"
 os = "macos"
 
     [[LibOSXUnwind.download]]
-    sha256 = "a01c27600e4f128c80d390037c99de97fdd38043e0f13dd156cca7c1bb391ae5"
-    url = "https://github.com/JuliaBinaryWrappers/LibOSXUnwind_jll.jl/releases/download/LibOSXUnwind-v0.0.6+2/LibOSXUnwind.v0.0.6.x86_64-apple-darwin.tar.gz"
+    sha256 = "20d11d67caf746a76f1735a477c04147a3668b989635689d582ff5f2f724fb1a"
+    url = "https://github.com/JuliaBinaryWrappers/LibOSXUnwind_jll.jl/releases/download/LibOSXUnwind-v0.0.7+0/LibOSXUnwind.v0.0.7.aarch64-apple-darwin.tar.gz"
+[[LibOSXUnwind]]
+arch = "x86_64"
+git-tree-sha1 = "022827a0eac138466112b104cc2e8f1682ddadfa"
+os = "macos"
+
+    [[LibOSXUnwind.download]]
+    sha256 = "e2ea6ecae13c0f2666d1b3020098feeab92affae1614f6b2a992dde0af88ec2f"
+    url = "https://github.com/JuliaBinaryWrappers/LibOSXUnwind_jll.jl/releases/download/LibOSXUnwind-v0.0.7+0/LibOSXUnwind.v0.0.7.x86_64-apple-darwin.tar.gz"
